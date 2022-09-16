@@ -1,0 +1,3 @@
+Pequeño, muy pequeño sistema de ventas en PHP con MySQL
+
+@author par

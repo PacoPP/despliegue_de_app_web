@@ -1,0 +1,7 @@
+---
+mysql_root_password: " "
+app_user: "pako"
+http_host: "fpena.com"
+http_conf: "fpena.com.conf"
+http_port: "80"
+disable_default: true
